@@ -1,0 +1,23 @@
+{
+  "name": "ts-project",
+  "version": "1.0.0",
+  "description": "Criado para aplicação de conceitos de tipagem no TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuilhermeC-42/Typescript-fundamentals.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GuilhermeC-42/Typescript-fundamentals/issues"
+  },
+  "homepage": "https://github.com/GuilhermeC-42/Typescript-fundamentals#readme",
+  "dependencies": {
+    "lite-server": "^2.6.1",
+    "typescript": "^4.7.4"
+  }
+}
